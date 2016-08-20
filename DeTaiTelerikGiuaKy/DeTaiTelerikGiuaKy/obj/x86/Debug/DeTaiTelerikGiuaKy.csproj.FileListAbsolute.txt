@@ -1,0 +1,14 @@
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\DeTaiTelerikGiuaKy.exe
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\DeTaiTelerikGiuaKy.pdb
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\Telerik.WinControls.dll
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\Telerik.WinControls.UI.dll
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\TelerikCommon.dll
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\Telerik.WinControls.xml
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\bin\Debug\Telerik.WinControls.UI.xml
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.RadForm1.resources
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.Properties.Resources.resources
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.csproj.GenerateResource.Cache
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.exe.licenses
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.exe
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.pdb
+D:\LTCSDL\DeTaiTelerikGiuaKy\DeTaiTelerikGiuaKy\obj\x86\Debug\DeTaiTelerikGiuaKy.csprojResolveAssemblyReference.cache
